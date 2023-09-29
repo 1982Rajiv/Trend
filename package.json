@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "latest",  // Yahan "next" dependency manually add kiya gaya hai
     "graphql": "^16.6.0",
     "graphql-request": "^5.0.0",
     "react": "18.2.0",
